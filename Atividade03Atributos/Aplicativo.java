@@ -1,3 +1,5 @@
+package Atividade03Atributos;
+
 public class Aplicativo {
     public static void main(String[] args) {
         // Pessoa

@@ -1,3 +1,5 @@
+package Atividade03Atributos;
+
 public class Aluno {
     // Atributos
     String nome;
