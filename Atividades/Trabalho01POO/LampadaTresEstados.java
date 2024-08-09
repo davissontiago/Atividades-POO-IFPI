@@ -6,7 +6,7 @@ public class LampadaTresEstados{
 
     // Construtor
     public LampadaTresEstados(){
-        this.estado = "apagado";
+        this.estado = "apagada";
     }
     // Métodos
     public void apagar(){
